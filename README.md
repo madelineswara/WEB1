@@ -1,4 +1,6 @@
-# WEB1/src/index.html
+# WEB1
+#src/index.html
+
 
 Hoàng Thị Thu Hiền - 3122411051
 Võ Phương Liên Chi - 3122411022
